@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:615391368845:android:bb024674484c3824",
+        "mobilesdk_app_id": "1:615391368845:android:b46a679994fb1bd5",
         "android_client_info": {
-          "package_name": "com.example.budgy"
+          "package_name": "com.budgy"
         }
       },
       "oauth_client": [
@@ -33,7 +33,8 @@
             }
           ]
         }
-      }
+      },
+      "admob_app_id": "ca-app-pub-5100743117040384~5102897760"
     }
   ],
   "configuration_version": "1"
